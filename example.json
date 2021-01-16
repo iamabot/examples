@@ -1,14 +1,14 @@
 {
 	"computers": [{
-			"name": "AppSrv1862",
-			"address": "appsrv1862.localdomain.mysvc"
+			"name": "computer1",
+			"address": "some.address.1"
 		},
 		{
-			"name": "AppSrv2312",
-			"address": "appsrv2312.localdomain.mysvc"
+			"name": "computer2",
+			"address": "some.address.2"
 		},
 		{
-			"name": "DBSrv4514",
-			"address": "dbsrv4514.localdomain.mysvc"
+			"name": "computer3",
+			"address": "some.address.3"
 		}
 	]
